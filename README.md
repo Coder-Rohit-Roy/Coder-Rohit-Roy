@@ -1,9 +1,12 @@
+
 <h1 align="center">Hi 👋, I'm Rohit Roy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" width="380" height="350" alt="giphy (1)" src="https://github.com/user-attachments/assets/7322e8e7-eaed-4764-a6a0-a8ce5fe1c540" />
+
 
 - 🌱 I’m currently learning **Flutter,frontend development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Coder-Rohit-Roy](https://github.com/Coder-Rohit-Roy)
+- 👨‍💻 All of my projects are available at [https://github.com/Coder-Rohit-Roy](https://github.com/Coder-Rohit-Roy)  
 
 - 📫 How to reach me **rohit01roy2004@gmail.com**
 
